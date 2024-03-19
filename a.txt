@@ -6,4 +6,7 @@ de arquivo
 enviando 
 a funcionalidade 
 x
-
+2
+diff
+de
+arquivo
